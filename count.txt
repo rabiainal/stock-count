@@ -1,11 +1,4 @@
-
-Notebook 120
+Notebook 118
 Pencil 450
-Stapler 14
-Tape 60
-<<<<<<< HEAD
-Rubber bands 900
-=======
-Envelopes  500
->>>>>>> ec8c5248bc25988f63e8c913b5bf92a1a7c65124
-Markers 75
+Tape 58
+Envelopes 500
